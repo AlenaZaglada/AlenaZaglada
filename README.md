@@ -17,10 +17,18 @@
 - Подготовка и проведение автоматизированных тестовых сценариев
 - Работа в Selenium Webdriver
 
+# Вот, что я умею: 
+- [Мой дипломный проект](https://github.com/AlenaZaglada/QAdiploma)
+- [Командный проект](https://github.com/AlenaZaglada/javaqa-team-diplomZK)
+- [Курсовой проект](https://docs.google.com/spreadsheets/d/1x91Scff4qEOpxrTQap7HWQs4gAEhLzQUS1waNYkZXbg/edit#gid=0)
+
 # Мои навыки:
 работа в команде, любознательность, пунктуальность организованность, дружелюбность, обучаемость, эмоциональный интеллект
 
-# Вот, что я умею: 
+# Мои рекомендации:
+Во время учебы стажировалась в АО "КТ-Беспилотные системы". В мои обязанности входило исследование и тестирование перспективного проекта для обучения
+автотестирования бортовых систем
+[Рекомендательное письмо](https://drive.google.com/file/d/1zlnmCesgs6DjwFlVzKyopb6ICwjZuC8-/view?usp=sharing)
 
 # Сертификаты Нетологии: 
 [ручное тестирование](https://netology.ru/backend/api/user/programs/30375/pdf_certificate)
